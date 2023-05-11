@@ -4,6 +4,9 @@ body{
   background-attachment: fixed;  
   background-size: cover;
 }
-.nav-link{
-  color: white;
+.nav-link:hover{
+  background-color: black;
+}
+#logo{
+  width: 2%;
 }
