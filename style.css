@@ -4,3 +4,6 @@ body{
   background-attachment: fixed;  
   background-size: cover;
 }
+.nav-link{
+  color: white;
+}
