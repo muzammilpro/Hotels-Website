@@ -10,3 +10,13 @@ body{
 #logo{
   width: 2%;
 }
+.headerText{
+  color: lightcyan;
+}
+.timeContainer{
+  display: flex;
+}
+.timeCards{
+  padding: 2%;
+  text-align: center;
+}
