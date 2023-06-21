@@ -1,8 +1,9 @@
-body{
+.imgContainer{
     background-image: url('./Assets/backGround.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+  height: 100%;
 }
 .nav-link:hover{
   background-color: black;
@@ -13,10 +14,4 @@ body{
 .headerText{
   color: lightcyan;
 }
-.timeContainer{
-  display: flex;
-}
-.timeCards{
-  padding: 2%;
-  text-align: center;
-}
+
