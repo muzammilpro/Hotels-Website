@@ -17,6 +17,7 @@
 
 .card_img{
   width: 50%;
+  
 }
 
 .cards{
@@ -27,4 +28,9 @@
 
 .card:hover{
   background-color: aquamarine;
+}
+
+.bigCards{
+  width: 50%;
+  height: 30%;
 }
