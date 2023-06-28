@@ -34,3 +34,10 @@
   width: 50%;
   height: 30%;
 }
+
+.underLine{
+  text-decoration: underline red;
+  text-decoration-skip-ink: none;
+  text-underline-offset: 0.2em;
+  
+}
