@@ -1,47 +1,54 @@
-.imgContainer{
-    background-image: url('./Assets/backGround.jpg');
+.imgContainer {
+  background-image: url('./Assets/backGround.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;  
+  background-attachment: fixed;
   background-size: cover;
   height: 100%;
 }
-.nav-link:hover{
+
+.nav-link:hover {
   background-color: black;
 }
-#logo{
+
+#logo {
   width: 2%;
 }
-.headerText{
+
+.headerText {
   color: lightcyan;
 }
 
-.card_img{
+.card_img {
   width: 50%;
-  
+
 }
 
-.cards{
+.cards {
 
   display: flex;
   justify-content: space-between;
+
+  
+
 }
 
-.card:hover{
+.card:hover {
   background-color: aquamarine;
 }
 
-.bigCards{
+.bigCards {
   width: 50%;
   height: 30%;
 }
 
-.underLine{
+.underLine {
   text-decoration: underline red;
   text-decoration-skip-ink: none;
   text-underline-offset: 0.2em;
-  
+
 }
-.bigCards{
+
+.bigCards {
   width: 100%;
   height: 75%;
 }
