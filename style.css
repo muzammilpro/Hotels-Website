@@ -59,5 +59,9 @@
 }
 .footer{
   display: flex;
-  
+
+}
+
+.footer div{
+padding: 4%;
 }
